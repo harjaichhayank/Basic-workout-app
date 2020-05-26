@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyWorkOut</string>
+    <string name="click_me">Click Me</string>
+    <string name="text">text</string>
+
+    <string-array name="work_out_spinner">
+        <item>chest</item>
+        <item>back</item>
+        <item>biceps</item>
+        <item>triceps</item>
+        <item>legs</item>
+        <item>abs</item>
+    </string-array>
+
+</resources>

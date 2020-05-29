@@ -26,10 +26,9 @@
         android:layout_marginBottom="-75dp"
         android:text="@string/click_me" />
 
-    <EditText
+    <TextView
         android:importantForAutofill="no"
         android:hint="@string/text"
-        android:inputType="text"
         android:layout_width="168dp"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
